@@ -4,4 +4,8 @@ dd
 git
 dd
 stupid donkey
+<<<<<<< HEAD
 mater change
+=======
+hell
+>>>>>>> feature1
