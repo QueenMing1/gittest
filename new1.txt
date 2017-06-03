@@ -9,4 +9,8 @@ mater change
 =======
 hell
 >>>>>>> feature1
+<<<<<<< HEAD
 dev compare with master
+=======
+save branch test
+>>>>>>> dev
